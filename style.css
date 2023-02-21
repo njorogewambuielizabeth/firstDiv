@@ -1,8 +1,9 @@
 .words{
-    background-color: rgb(184, 141, 177);
+    background-color: white;
     padding: 20px;
     margin: 5%;
     border-style: solid;color: crimson;
+    font-style: italic;
     
 }
  .container{
